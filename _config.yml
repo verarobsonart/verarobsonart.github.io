@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Vera Robson Art
 description: This site is under construction. Come back soon.
+github:
+  is_project_page: false
