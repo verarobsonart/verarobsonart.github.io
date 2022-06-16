@@ -10,7 +10,7 @@ title: Homepage
   <div style="width:100%; height:250px; text-align:center;">
   <img src="{{ artwork.thumbnail }}"></img>
   </div>
-  <p>{{ artwork.content | markdownify }}</p>
+  <p>{{ artwork.description | markdownify }}</p>
 </div>
 {% endfor %}
 </div>
