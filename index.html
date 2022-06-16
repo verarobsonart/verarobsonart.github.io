@@ -5,9 +5,11 @@ title: Homepage
 
 Please check again later.
 
+<div style="display:flex;">
 {% for artwork in site.artwork %}
-<div style="height: 400px; width: 400px; bg-color:yellow;">
+<div style="height: 300px; width: 300px; bg-color:yellow;">
   <h4>{{ artwork.title }} - {{ artwork.year }}</h4>
   <p>{{ artwork.content | markdownify }}</p>
 </div>
 {% endfor %}
+</div>
