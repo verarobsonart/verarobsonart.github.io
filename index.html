@@ -4,3 +4,8 @@ title: Homepage
 ---
 
 Please check again later.
+
+{% for artwork in site.artwork %}
+  <h2>{{ artwork.title }} - {{ artwork.year }}</h2>
+  <p>{{ artwork.content | markdownify }}</p>
+{% endfor %}
