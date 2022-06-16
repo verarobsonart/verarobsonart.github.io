@@ -6,7 +6,7 @@ title: Homepage
 <div style="display:flex; text-align:center;">
 {% for artwork in site.artwork %}
 <div style="height: 300px; width: 300px; bg-color:yellow;">
-  <h4>{{ artwork.title }} - {{ artwork.year }}</h4>
+  <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
   <div style="width:100%; height:250px; text-align:center;">
   <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"></img>
   </div>
