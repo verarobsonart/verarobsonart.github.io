@@ -6,6 +6,8 @@ title: Homepage
 Please check again later.
 
 {% for artwork in site.artwork %}
-  <h2>{{ artwork.title }} - {{ artwork.year }}</h2>
+<div style="height: 400px; width: 400px; color:yellow;">
+  <h4>{{ artwork.title }} - {{ artwork.year }}</h4>
   <p>{{ artwork.content | markdownify }}</p>
+</div>
 {% endfor %}
