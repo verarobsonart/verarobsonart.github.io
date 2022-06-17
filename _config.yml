@@ -6,4 +6,3 @@ github:
 collections:
   artwork:
     output:true
-    layout:artwork
