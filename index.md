@@ -4,7 +4,7 @@ layout: default
 
 <div style="display:block; text-align:center;">
 {% for item in site.data.navigation.toc %}
-    <div style="display:inline-block; margin: 5px 20px;"><a href="{{ item.url }}"<h4>{{ item.title }}</h4></a></div>
+    <div style="display:inline-block; margin: 5px 20px;"><a href="{{ item.url }}"><h4>{{ item.title }}</h4></a></div>
   {% endfor %}
 </div>
 
