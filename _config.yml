@@ -14,3 +14,6 @@ defaults:
       type: "artwork"
     values:
       layout: "artwork"
+      
+      
+show_downloads: false
