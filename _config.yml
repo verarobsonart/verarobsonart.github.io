@@ -5,4 +5,4 @@ github:
   is_project_page: false
 collections:
   artwork:
-    output:true
+    output: true
