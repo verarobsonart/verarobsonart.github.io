@@ -4,5 +4,4 @@ description: This site is under construction. Come back soon.
 github:
   is_project_page: false
 collections:
-  artwork:
-    output:true
+  - artwork
