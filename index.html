@@ -4,7 +4,8 @@ title: Homepage
 ---
 
 <div style="display:block; text-align:center;">
-{% for artwork in site.artwork %}
+{% assign artworks = site.artwork | sample:2 %}
+{% for artwork in site.artworks %}
 <div style="height: 300px; width: 300px; min-width:300px; display:inline-block;">
   <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
   <div style="width:100%; height:250px; text-align:center;">
