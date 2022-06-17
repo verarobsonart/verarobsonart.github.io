@@ -7,3 +7,10 @@ collections:
   artwork:
     output: true
     layout: artwork
+    
+defaults:
+  - scope:
+      path: ""
+      type: "artwork"
+    values:
+      layout: "artwork"
