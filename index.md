@@ -1,7 +1,14 @@
 ---
 layout: default
-group: navigation
 ---
+{% for item in site.data.navigation.toc %}
+    <h3>{{ item.title }}</h3>
+      <ul>
+        {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+        {% endfor %}
+      </ul>
+  {% endfor %}
 
 <div style="display:block; text-align:center;">
 {% assign n = site.artwork | size %}
