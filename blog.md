@@ -12,3 +12,4 @@ layout: default
   <p><a href="{{ post.url }}">Read more...</a></p>
   {% endfor %}
 </div>
+<div id = "spacer" style="padding: 10px; width:100%;"></div>
