@@ -13,6 +13,8 @@ layout: default
   {% endfor %}
 </div>
 
+<div id = "spacer" style="padding: 50px; width:100%;"></div>
+
 <div style="display:block; text-align:center;">
 {% assign n = site.artwork | size %}
 {% assign artworks = site.artwork | sample:n %}
