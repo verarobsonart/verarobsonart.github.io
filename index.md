@@ -2,10 +2,8 @@
 layout: default
 ---
 <style>
-    .clearfix::before {
-  font-weight: bold;
-  color: navy;
-    content: "<ul><li>Reference</li></ul> ";
+    .clearfix::after {
+    content: <ul><li>Reference</li></ul>;
 }
 </style>
 
