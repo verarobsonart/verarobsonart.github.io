@@ -1,10 +1,6 @@
 theme: jekyll-theme-tactile
 title: Vera Robson Art
 description: This site is under construction. Come back soon.
-menus:
-  header:
-    title: Home
-    weight: 1
     
 github:
   is_project_page: false
