@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<style>
+    .clearfix::before {
+  font-weight: bold;
+  color: navy;
+    content: "<ul><li>Reference</li></ul> ";
+}
+</style>
+
 <div style="display:block; text-align:center;">
 {% for item in site.data.navigation.toc %}
     <div style="display:inline-block; margin: 5px 20px;"><h4>{{ item.title }}</h4></div>
