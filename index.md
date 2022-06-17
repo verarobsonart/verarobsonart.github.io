@@ -1,19 +1,14 @@
 ---
 layout: default
 ---
-<style>
-    .clearfix::after {
-    content: <ul><li>Reference</li></ul>;
-}
-</style>
 
 <div style="display:block; text-align:center;">
 {% for item in site.data.navigation.toc %}
-    <div style="display:inline-block; margin: 5px 20px;"><h4>{{ item.title }}</h4></div>
+    <div style="display:inline-block; margin: 5px 20px;"><a href="{{ item.url }}"<h4>{{ item.title }}</h4></a></div>
   {% endfor %}
 </div>
 
-<div id = "spacer" style="padding: 50px; width:100%;"></div>
+<div id = "spacer" style="padding: 10px; width:100%;"></div>
 
 <div style="display:block; text-align:center;">
 {% assign n = site.artwork | size %}
