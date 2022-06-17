@@ -1,5 +1,6 @@
 ---
 layout: default
+group: navigation
 ---
 
 <div style="display:block; text-align:center;">
