@@ -10,7 +10,7 @@ layout: default
 <a href="{{ artwork.url }}">
     <div style="height: 300px; width: 300px; min-width:300px; min-height:300px; display:inline-block;">
         <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
-        <div style="width:100%; height:250px; text-align:center;">
+        <div style="width:100%; height:250px; text-align:center; transform: translate(0, -50%);">
         <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
         </div>
     </div>
