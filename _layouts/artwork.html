@@ -8,8 +8,8 @@ layout: default
 
 <p>{{ page.title }} ({{ page.year}})<br/>{{ page.height }} &times; {{ page.width }}, {{ page.medium }} on {{ page.surface }}</p>
 
-{% if page.instagram And page.instagram != "" And page.instagram != nil %}
-<p>View on Instagram: <a href="{{ page.instagram }}">{{ page.instagram }}</a>.</p>
-{% endif %}
-
 {{ content }}
+
+{% if page.instagram And page.instagram != "" And page.instagram != nil %}
+<p><a href="{{ page.instagram }}">View on Instagram</a></p>
+{% endif %}
