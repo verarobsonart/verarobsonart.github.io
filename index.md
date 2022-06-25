@@ -17,3 +17,5 @@ layout: default
 </a>
 {% endfor %}
 </div>
+
+<meta>google-site-verification=DksB63YGmZTce2jlqHDH3yddpTWdY8ruI6PzQp4f3sI</meta>
