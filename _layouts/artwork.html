@@ -10,6 +10,14 @@ layout: default
 
 {{ content }}
 
+{% if page.availability And page.availability != "" And page.availabiliy != nil %}
+<p>{{ page.availability }}</p>
+{% endif %}
+{% if page.buy And page.buy != "" And page.buy != nil %}
+<p><a href="{{ page.buy }}">Purchase here</a></p>
+{% endif %}
+
 {% if page.instagram And page.instagram != "" And page.instagram != nil %}
 <p><a href="{{ page.instagram }}">View on Instagram</a></p>
 {% endif %}
+
