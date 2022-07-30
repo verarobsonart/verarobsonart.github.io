@@ -5,8 +5,9 @@ layout: default
 
 <div style="display:block; text-align:center;">
 {% assign n = site.artwork | size %}
-{% assign artworks = site.artwork | sample:n %}
+{% assign artworks = site.artwork | sample:n %}  
 {% for artwork in artworks %}
+{% if artwork.frontpage %}
 <a href="{{ artwork.url }}">
     <div style="height: 300px; width: 300px; min-width:300px; min-height:300px; display:inline-block;">
         <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
@@ -15,5 +16,6 @@ layout: default
         </div>
     </div>
 </a>
+{% endif %}
 {% endfor %}
 </div>
