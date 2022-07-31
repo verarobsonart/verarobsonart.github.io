@@ -1,26 +1,13 @@
 <html>
- <head>
- </head>
- <body>
+<head>
+</head>
+<body>
 
 {% include header.html %}  
   
 {% include navigation.html %}
 
 {{ content }}
-
-{% if page.availability And page.availability != "" And page.availabiliy != nil %}
-<p>{{ page.availability }}</p>
-{% endif %}
-{% if page.buytext And page.buytext != "" And page.buytext != nil %}
- {% if page.buylink And page.buylink != "" And page.buylink != nil %}
- <p><a href="{{ page.buylink }}">{{ page.buytext }}</a></p>
- {% endif %}
-{% endif %}
-
-{% if page.instagram And page.instagram != "" And page.instagram != nil %}
-<p><a href="{{ page.instagram }}">View on Instagram</a></p>
-{% endif %}
 
  </body>
 </html>
