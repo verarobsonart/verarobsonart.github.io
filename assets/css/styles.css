@@ -37,3 +37,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.tilecaption {
+   font-face: bold;
+}
