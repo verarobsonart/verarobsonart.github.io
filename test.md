@@ -8,7 +8,7 @@ layout: testlayout
 {% for artwork in artworks %}
 {% if artwork.frontpage %}
 <a href="{{ artwork.url }}">
-    <div style="height: 300px; width: 300px; min-width:300px; min-height:300px; display:inline-block;">
+    <div class="tile">
         <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
         <div style="width:100%; height:250px; text-align:center; ">
         <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
