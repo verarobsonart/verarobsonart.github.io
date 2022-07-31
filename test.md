@@ -1,7 +1,6 @@
 ---
 layout: testlayout
 ---
-{% include navigation.html %}
 
 <div style="display:block; text-align:center;">
 {% assign n = site.artwork | size %}
