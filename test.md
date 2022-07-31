@@ -9,10 +9,10 @@ layout: testlayout
 {% if artwork.frontpage %}
 <a href="{{ artwork.url }}">
     <div class="tile">
-        <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
         <div style="width:100%; height:250px; text-align:center; ">
         <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
         </div>
+        <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
     </div>
 </a>
 {% endif %}
