@@ -31,7 +31,8 @@ body {
 
 .tilethumbnail {
   width:100%;
-  min-height:250px;
-  max-height:250px;
-  text-align:center;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
