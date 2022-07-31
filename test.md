@@ -12,7 +12,7 @@ layout: testlayout
         <div class="tilethumbnail">
         <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
         </div>
-        <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
+        <p>{{ artwork.title }} ({{ artwork.year }})</p>
     </div>
 </a>
 {% endif %}
