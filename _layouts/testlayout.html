@@ -1,14 +1,14 @@
 <html>
-<head>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-{% include header.html %}  
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="containermain">
+      {% include header.html %}  
   
-{% include navigation.html %}
+      {% include navigation.html %}
 
-{{ content }}
-
- </body>
+      {{ content }}
+    </div>
+  </body>
 </html>
