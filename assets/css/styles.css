@@ -3,5 +3,14 @@ body {
 }
 
 .containermain {
+  margin: 0 auto;
   width: 90%;
+}
+
+.sitetitle {
+  font-size: large;
+}
+
+.sitesubtitle {
+  color: #999ea8;
 }
