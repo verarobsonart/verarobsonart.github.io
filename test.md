@@ -9,7 +9,7 @@ layout: testlayout
 {% if artwork.frontpage %}
 <a href="{{ artwork.url }}">
     <div class="tile">
-        <div style="width:100%; height:250px; text-align:center; ">
+        <div class="tilethumbnail">
         <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
         </div>
         <h4>{{ artwork.title }} ({{ artwork.year }})</h4>
