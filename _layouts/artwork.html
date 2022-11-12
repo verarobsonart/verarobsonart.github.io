@@ -9,10 +9,11 @@ layout: default
 {{ content }}
 
 {% endif %}
+
 {% if page.available}
 <p>Available for purchase via <a href="page.shoplink">page.shopname</a>.</p>
 {% endif %}
-{% endif %}
+
 
 {% if page.instagram And page.instagram != "" And page.instagram != nil %}
 <p><a href="{{ page.instagram }}">View on Instagram</a></p>
