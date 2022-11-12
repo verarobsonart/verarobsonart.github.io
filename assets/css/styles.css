@@ -13,6 +13,27 @@ body {
   font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 }
 
+
+a:link {
+  color: grey;
+  text-decoration: none;  
+}
+
+a:visited {
+  color: grey;
+  text-decoration: none;  
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: underline;  
+}
+
+a:active {
+  color: hotpink;
+  text-decoration: underline;  
+}
+
 .sitetitle {
   font-size: 200%;
 }
