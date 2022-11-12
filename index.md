@@ -10,7 +10,7 @@ layout: default
 <a style="text-decoration:none;" href="{{ artwork.url }}">
     <div class="tile">
         <div class="tilethumbnail">
-        <img src="/assets/{{ artwork.catalogue }}-thumbnail.png"/>
+        <img src="/assets/{{ artwork.catalogue }}-square-thumb.png"/>
         </div>
         <p><b>{{ artwork.title }} ({{ artwork.year }})</b></p>
     </div>
