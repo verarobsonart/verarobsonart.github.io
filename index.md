@@ -7,7 +7,7 @@ layout: default
 {% assign artworks = site.artwork | sample:n %}  
 {% for artwork in artworks %}
 {% if artwork.frontpage %}
-<a style="text-decoration:none;" href="{{ artwork.url }}">
+<a href="{{ artwork.url }}">
     <div class="tile">
         <div class="tilethumbnail">
         <img src="/assets/{{ artwork.catalogue }}-square-thumb.png"/>
