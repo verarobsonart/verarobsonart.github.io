@@ -12,7 +12,7 @@ layout: default
         <div class="tilethumbnail">
         <img src="/assets/{{ artwork.catalogue }}-square-thumb.png"/>
         </div>
-        <p><b>{{ artwork.title }} ({{ artwork.year }})</b></p>
+        <p>{{ artwork.title }} ({{ artwork.year }})</p>
     </div>
 </a>
 {% endif %}
