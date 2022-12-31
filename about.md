@@ -5,5 +5,3 @@ layout: default
 
 <p>Vera is a promising emerging artist: in 2022, after less than a year of formal tuition, she was awarded a student grant by the William Fletcher Foundation.</p>
 
-<p>Visit Vera's profile on <a href="https://bluethumb.com.au/vera-robson">Bluethumb</a> for artworks available for sale.</p>
-
