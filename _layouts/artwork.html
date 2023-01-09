@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<p><img style="width:100%;" src="/assets/{{ page.catalogue }}.jpg"/></p>
+<p><img class="fullimage" src="/assets/{{ page.catalogue }}.jpg"/></p>
 
 <p>{{ page.title }} ({{ page.year}})<br/>{{ page.height }} &times; {{ page.width }}, {{ page.medium }} on {{ page.surface }}</p>
 
 {{ content }}
-
-{% if page.available %}
-<p>Available for purchase via <a href="{{ page.shoplink }}">{{ page.shopname }}</a>.</p>
-{% endif %}
