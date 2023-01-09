@@ -6,7 +6,7 @@ layout: default
 {% assign n = site.artwork | size %}
 {% assign artworks = site.artwork | sample:n %}  
 {% for artwork in artworks %}
-{% if artwork.tags contains "2022" %}
+{% if artwork.tags contains 2022 %}
 <a href="{{ artwork.url }}">
     <div class="tile">
         <div class="tilethumbnail">
