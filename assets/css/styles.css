@@ -59,3 +59,8 @@ a:active {
   justify-content: center;
   align-items: center;
 }
+
+.fullimage {
+  max-width: 100%;
+  height: auto;
+}
