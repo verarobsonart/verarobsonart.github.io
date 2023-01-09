@@ -65,3 +65,7 @@ a:active {
   max-height: 90vh;
   height: auto;
 }
+
+.fullimagecontainer {
+  margin: 0 auto;
+}
