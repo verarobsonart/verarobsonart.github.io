@@ -6,7 +6,7 @@ layout: default
 
 <p>Sketching has been a lifelong passion for me, and in 2022 I made the decision to take my art to the next level by enrolling in formal art classes. I started with oil painting and life drawing at Waverley Woollahra Art School and the National Art School. My hard work and dedication were soon recognized when I received a 2022 student grant from the William Fletcher Foundation after only a year of formal tuition, solidifying my status as a promising emerging artist.</p>
 
-<p>My art can be viewed on my website and purchased on Bluethumb. I am also available for commissions, artistic collaborations, and any other inquiries at <a href = "mailto:verarobsonart@gmail.com">verarobsonart@gmail.com</a>.</p>
+<p>My art can be viewed on my website and purchased on <a href="https://bluethumb.com.au/vera-robson">Bluethumb</a>. I am also available for commissions, artistic collaborations, and any other inquiries at <a href = "mailto:verarobsonart@gmail.com">verarobsonart@gmail.com</a>.</p>
 
 <p>I invite you to explore the beauty and drama of everyday Australian life through my art.</p>
 
