@@ -12,5 +12,7 @@ layout: default
 
 <p>VMy art can be viewed on my website and purchased on <a href="https://bluethumb.com.au/vera-robson">Bluethumb</a>. I am also available for commissions, artistic collaborations, and any other inquiries at <a href = "mailto:verarobsonart@gmail.com">verarobsonart@gmail.com</a>.</p>
 
+<p>Follow me on <a href="https://www.instagram.com/verarobsonart/>Instagram</a> to see more works and updates</p>
+
 
 
