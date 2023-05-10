@@ -10,7 +10,7 @@ layout: default
 
 <h3>How to engage</h3>
 
-<p>My art can be viewed on my website and purchased on <a href="https://bluethumb.com.au/vera-robson">Bluethumb</a>. I am also available for commissions, artistic collaborations, and any other inquiries at <a href = "mailto:verarobsonart@gmail.com">verarobsonart@gmail.com</a>.</p>
+<p>My art can be viewed on my website and some select works are on display and available for purchase at <a href="https://www.sthsthkingst.com/">SthSthKingSt Gallery</a> in Sydney. I am also available for commissions, artistic collaborations, and any other inquiries at <a href = "mailto:verarobsonart@gmail.com">verarobsonart@gmail.com</a>.</p>
 
 <p>Follow me on <a href="https://www.instagram.com/verarobsonart/">Instagram</a> for more artworks and recent updates.</p>
 
