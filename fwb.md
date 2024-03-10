@@ -4,7 +4,7 @@ layout: default
 
 <h1>Flo the Wobble Bobble</h1>
 
-Flo the Wobble Bobble started as a fun way to channel my emotions - no matter what strong feelings I experience, I would quickly sketch a suitable wobble bobble, and even when I feel angry or sad, Flo never fails to cheer me up! Now Flo has gone digital: I've made a basic Flo the Wobble Bobble sticker pack for WhatsApp for everyone (with an Android device) to enjoy. More Flo the Wobble Bobble stuff coming up soon.
+Flo the Wobble Bobble started as an outlet for my own feelings - even when I feel angry or sad, the tiny Flo never fails to cheer me up! I've been drawing the wobble bobbles on scraps of paper and in my sketchbook, but the time has come for Flo to go digital. Flo the Wobble Bobble sticker pack is now available for WhatsApp on Android Play Store. More Flo the Wobble Bobble stuff is coming up soon.
 
 <div style="display:block; text-align:center;">
     <div class="tile">
