@@ -9,8 +9,38 @@ Flo the Wobble Bobble started as a fun way to channel my emotions - no matter wh
 <div style="display:block; text-align:center;">
     <div class="tile">
         <div class="tilethumbnail">
+        <img src="/assets/fwb/apprehensive.png"/>
+        </div>
+        <p>Apprehensive (2024)</p>
+    </div>
+    <div class="tile">
+        <div class="tilethumbnail">
+        <img src="/assets/fwb/astonished.png"/>
+        </div>
+        <p>Astonished (2024)</p>
+    </div>
+    <div class="tile">
+        <div class="tilethumbnail">
+        <img src="/assets/fwb/bubbles.png"/>
+        </div>
+        <p>Bubbles (2024)</p>
+    </div>
+    <div class="tile">
+        <div class="tilethumbnail">
         <img src="/assets/fwb/button.png"/>
         </div>
         <p>Button (2024)</p>
+    </div>
+    <div class="tile">
+        <div class="tilethumbnail">
+        <img src="/assets/fwb/deadbug.png"/>
+        </div>
+        <p>Dead bug (2024)</p>
+    </div>
+    <div class="tile">
+        <div class="tilethumbnail">
+        <img src="/assets/fwb/mushroom.png"/>
+        </div>
+        <p>Mushroom (2024)</p>
     </div>
 </div>
