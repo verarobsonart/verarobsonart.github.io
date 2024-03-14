@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h3> Artist's Statement </h3>
+<h3> Artist's Statement</h3>
 
-<p>Vera's motivation is to convey the beauty and drama of everyday Australian life through her art. She strives for excellence in her work, continuously learning and improving both her technical skills and the understanding of Australian art and its place within the international art scene.</p>
+<p>I am not an artist, but I like art and I like to draw and paint.</p>
 
-<p>Sketching has been a lifelong passion for Vera, and in 2022 she decided to take her art practice to the next level by enrolling in formal art classes. She started with oil painting and life drawing at Waverley Woollahra Art School and the National Art School. Her hard work and dedication were soon recognized when she received a 2022 student grant from the William Fletcher Foundation after only a year of formal tuition, solidifying her status as a promising emerging artist.</p>
+<p>I've taken some art classes in the recent years, with Kevin McKay and Noel Thurgate (at Waverley Woollahra Art School and at the National Art School in Sydney), and in 2022 I received a student grant from the William Fletcher Foundation.</p>
 
 
 <h3>How to engage</h3>
