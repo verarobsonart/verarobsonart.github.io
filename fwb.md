@@ -4,7 +4,7 @@ layout: default
 
 <h1>Wobble Bobble</h1>
 
-I've been drawing these wobble bobbles on scraps of paper and in my sketchbook, and drew some of them digitally.
+I've been drawing these wobble bobbles on scraps of paper and in my sketchbook, some of them are now digital.
 
 <div style="display:block; text-align:center;">
     <div class="tile">
