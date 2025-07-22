@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% include navigation.html %}
 
 <div style="width:100%;">
   {% for post in site.posts %}
