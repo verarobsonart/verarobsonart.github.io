@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<h1>Flo the Wobble Bobble</h1>
+<h1>Wobble Bobble</h1>
 
-Flo the Wobble Bobble started as an outlet for my own feelings - even when I feel angry or sad, the tiny Flo never fails to cheer me up! I've been drawing the wobble bobbles on scraps of paper and in my sketchbook, but the time has come for Flo to go digital. More Flo the Wobble Bobble stuff is coming up soon.
+I've been drawing these wobble bobbles on scraps of paper and in my sketchbook, and drew some of them digitally.
 
 <div style="display:block; text-align:center;">
     <div class="tile">
